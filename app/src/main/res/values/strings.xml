@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">蚂蚁帮</string>
+
+
+    <string name="main_recharge">充值</string>
+    <string name="main_detail">明细</string>
+    <string name="main_bluetooth">蓝牙</string>
+    <string name="main_yue">我的余额</string>
+    <string name="error_bluetooth_not_supported">错误！不支持蓝牙功能</string>
+    <string name="main_hbyue">我的红包</string>
+    <string name="main_newjilu">最新付款记录</string>
+    <string name="main_history">历史</string>
+    <string name="main_history_pay">付款记录</string>
+</resources>
